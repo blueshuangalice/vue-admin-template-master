@@ -31,6 +31,7 @@ export default {
 .dashboard {
   &-container {
     margin: 30px;
+    margin-left: 1px;
   }
   &-text {
     font-size: 30px;
