@@ -24,6 +24,7 @@ export default {
   mounted() {
     this.$store.dispatch("getData");
     console.log("main");
+    console.log("hot-fix");
   },
 };
 </script>
