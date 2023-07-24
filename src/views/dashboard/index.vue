@@ -25,6 +25,8 @@ export default {
     this.$store.dispatch("getData");
     console.log("main");
     console.log("hot-fix");
+    console.log("pull");
+    
   },
 };
 </script>
