@@ -26,7 +26,7 @@ export default {
     console.log("main");
     console.log("hot-fix");
     console.log("pull");
-    
+    console.log("gitee");
   },
 };
 </script>
