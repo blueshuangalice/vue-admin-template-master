@@ -23,6 +23,7 @@ export default {
   },
   mounted() {
     this.$store.dispatch("getData");
+    console.log("main");
   },
 };
 </script>
